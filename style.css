@@ -3,13 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
-* {
-  margin: 0;
-  padding: 0;
- }
-
  html {
-  font-family: oswald;
+  font-family: Arial, Helvetica, sans-serif;;
   font-size: 10px;
  }
 
